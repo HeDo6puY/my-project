@@ -13,6 +13,13 @@ ul {
 
 /**********************ALL_NAV************************************/
 .Studio {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
     transition: .2s linear;
     text-decoration: none;
     color: black;
@@ -26,6 +33,13 @@ ul {
     color: #2196F3;
 }
 .Portfolio {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
     transition: .2s linear;
     text-decoration: none;
     color: black;
@@ -40,6 +54,13 @@ ul {
     color: #2196F3;
 }
 .Contact {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
     transition: .2s linear;
     text-decoration: none;
     color: black;
@@ -114,7 +135,6 @@ ul {
 .span_header_logo {
     color: #2196F3;
 }
-
 /*NAV*/
 .nav {
     font-family: Roboto;
@@ -271,8 +291,7 @@ ul {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    /* or 171% */
-    
+   
     letter-spacing: 0.03em;
     
     color: #757575;
@@ -289,8 +308,7 @@ ul {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    /* or 171% */
-    
+
     letter-spacing: 0.03em;
     
     color: #757575;
@@ -308,7 +326,6 @@ ul {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    /* or 171% */
     
     letter-spacing: 0.03em;
     
@@ -326,7 +343,6 @@ ul {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    /* or 171% */
     
     letter-spacing: 0.03em;
     
@@ -360,13 +376,13 @@ ul {
     mix-blend-mode: normal;
 }
 .img2 {
-position: absolute;
-width: 370px;
-height: 294px;
-left: 615px;
-top: 1061px;
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 615px;
+    top: 1061px;
 
-background: url(web-ui-designers-are-developing-application-smartphones-team-creators-is-working-interface-mobile-phones_8119-2713.jpg);
+    background: url(web-ui-designers-are-developing-application-smartphones-team-creators-is-working-interface-mobile-phones_8119-2713.jpg);
 }
 .img3 {
     position: absolute;
@@ -544,7 +560,6 @@ color: #757575;
     font-weight: normal;
     font-size: 16px;
     line-height: 19px;
-    /* identical to box height */
     
     text-align: center;
     letter-spacing: 0.03em;
@@ -567,24 +582,23 @@ color: #757575;
 }
 .Mihail {
     position: absolute;
-width: 134px;
-height: 19px;
-left: 68px;
-top: 290px;
+    width: 134px;
+    height: 19px;
+    left: 68px;
+    top: 290px;
 
-font-family: Roboto;
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 19px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
 
-text-align: center;
-letter-spacing: 0.03em;
+    text-align: center;
+    letter-spacing: 0.03em;
 
-color: #212121;
-
+    color: #212121;
 }
-.UI_Designer{
+.UI_Designer {
     position: absolute;
     width: 87px;
     height: 19px;
